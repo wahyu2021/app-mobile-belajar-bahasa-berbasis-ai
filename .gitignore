@@ -1,0 +1,53 @@
+# Python
+__pycache__/
+*.pyc
+*.pyd
+*.pyo
+.Python
+env/
+venv/
+*.egg
+*.egg-info/
+dist/
+build/
+develop-eggs/
+.installed.cfg
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+.tox/
+.coverage
+.coverage.*
+.hypothesis/
+.pytest_cache/
+nosetests.xml
+coverage.xml
+.benchmarks
+.mypy_cache/
+.dmypy.json
+.ruff_cache/
+.ipynb_checkpoints
+.spyderproject
+.spyproject
+.vscode/
+.idea/
+
+# Environment variables
+.env
+.flaskenv
+
+# Logs
+*.log
+celerybeat-schedule
+
+# OS generated files
+.DS_Store
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE specific files
+*.swp
+*.swo

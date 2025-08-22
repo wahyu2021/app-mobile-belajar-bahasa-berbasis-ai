@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pydantic-settings
+pydantic
+python-dotenv
+google-generativeai
+celery
+redis
