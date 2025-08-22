@@ -37,6 +37,7 @@ coverage.xml
 # Environment variables
 .env
 .flaskenv
+/api_fastapi/app/core/serviceAccountKey.json
 
 # Logs
 *.log
